@@ -8,8 +8,4 @@
 
 Here is my ISC2 certification:
 
-![ISC2 Certificate](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6f25ab81-6309-4753-9ff3-813ac283608e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>).
-
-
-
-
+![ISC2 Certificate](https://github.com/user-attachments/assets/98195a3e-8ccd-44eb-9db5-63f1274cfca0)
