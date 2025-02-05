@@ -8,7 +8,7 @@
 
 Here is my ISC2 certification:
 
-![ISC2 Certificate](https://github.com/yourusername/yourrepository/blob/main/isc2-candidate.png?raw=true)
+![ISC2 Certificate](https://www.credly.com/badges/6f25ab81-6309-4753-9ff3-813ac283608e/public_url).
 
 
 
