@@ -8,7 +8,7 @@
 
 Here is my ISC2 certification:
 
-![ISC2 Certificate](https://github.com/Yunaaaard/README.md/blob/main/isc2-candidate.png?raw=true)
+![ISC2 Certificate](https://github.com/Yunaaaard/README.md/C:\Users\dell\Downloads\isc2-candidate.png?raw=true)
 
 
 
