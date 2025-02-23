@@ -2,6 +2,7 @@
 I love cats. 🐱
 
 <img src="https://github.com/user-attachments/assets/5211b712-c5aa-41f8-aefc-3a06c7a96ca1" width="500"/>
+
 💻 Languages
 <p align="left"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
 🚀 Frameworks
