@@ -1,13 +1,13 @@
 🚀 Hi there! 👋  
-I love cats. 🐱  
 
 <img src="https://github.com/user-attachments/assets/5211b712-c5aa-41f8-aefc-3a06c7a96ca1" width="500"/>  
 
 ---
 
 ## 📌 About Me  
-<!-- Fill this in with details about yourself! -->
-
+<p align="left>
+  Hi, I am Leonard Tariman. A 3rd year BSIT student currently studying in University of Cebu - Banilad. I love cats, and i do play sports and e-sports like Basketball, DotA, and MLBB to be specific.
+</p>
 ---
 
 ## 💻 Languages  
