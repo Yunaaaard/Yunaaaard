@@ -49,13 +49,13 @@ I love cats. 🐱
 
 ## 🔗 Social Links  
 <p align="left">
-  <a href="https://facebook.com" target="_blank">
+  <a href="[https://facebook.com](https://www.facebook.com/leonaaaaard)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="[https://instagram.com](https://www.instagram.com/yunaaaard_/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://spotify.com" target="_blank">
+  <a href="[https://spotify.com](https://open.spotify.com/user/31fgweu34glpl2twxctda5wbylr4?si=2423c7e460de4a7b)" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
