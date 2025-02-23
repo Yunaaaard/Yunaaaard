@@ -11,4 +11,26 @@
 🎨 <span style="background: linear-gradient(45deg, #ff6b6b, #ffcc5c); -webkit-background-clip: text; color: transparent;">Design Kits</span>
 <p align="center"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
 🔗 <span style="background: linear-gradient(45deg, #ff6b6b, #ffcc5c); -webkit-background-clip: text; color: transparent;">Social Links</span>
-<p align="center"> <a href="https://www.facebook.com/leonaaaaard" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.instagram.com/yunaaaard_/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://open.spotify.com/user/31fgweu34glpl2twxctda5wbylr4?si=2423c7e460de4a7b" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/> </a> </p>
+<p align="center">
+  <a href="https://www.facebook.com/leonaaaaard" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
+      style="transition: 0.3s; filter: brightness(1);" 
+      onmouseover="this.style.filter='brightness(1.2)'" 
+      onmouseout="this.style.filter='brightness(1)'" />
+  </a>
+
+  <a href="https://www.instagram.com/yunaaaard_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      style="transition: 0.3s; filter: brightness(1);" 
+      onmouseover="this.style.filter='brightness(1.2)'" 
+      onmouseout="this.style.filter='brightness(1)'" />
+  </a>
+
+  <a href="https://open.spotify.com/user/31fgweu34glpl2twxctda5wbylr4?si=2423c7e460de4a7b" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" 
+      style="transition: 0.3s; filter: brightness(1);" 
+      onmouseover="this.style.filter='brightness(1.2)'" 
+      onmouseout="this.style.filter='brightness(1)'" />
+  </a>
+</p>
+
