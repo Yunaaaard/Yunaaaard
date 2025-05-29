@@ -1,7 +1,7 @@
 🚀 Hi there! 👋
 <p align="center"> <img src="https://github.com/user-attachments/assets/5211b712-c5aa-41f8-aefc-3a06c7a96ca1" width="200" style="border-radius: 50%;"/> </p>
 📌 <span style="background: linear-gradient(45deg, #ff6b6b, #ffcc5c); -webkit-background-clip: text; color: transparent;">About Me</span>
-<p align="center"> Hi, I am <b>Leonard Tariman</b>, a 3rd-year <b>BSIT</b> student currently studying at <b>University of Cebu - Banilad</b>. I love <b>cats 🐱</b>, and I play sports & e-sports like <b>Basketball 🏀, DotA 🎮, and MLBB 📱</b>. </p>
+<p align="center"> Hi, I am <b>Leonard Tariman</b>, a 3rd-year <b>BSIT</b> student currently studying at <b>University of Cebu - Banilad</b>. </p>
 💻 <span style="background: linear-gradient(45deg, #ff6b6b, #ffcc5c); -webkit-background-clip: text; color: transparent;">Languages</span>
 <p align="center"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
 🚀 <span style="background: linear-gradient(45deg, #ff6b6b, #ffcc5c); -webkit-background-clip: text; color: transparent;">Frameworks</span>
