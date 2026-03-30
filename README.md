@@ -10,7 +10,12 @@
 🚀 <span style="background: linear-gradient(45deg, #ff6b6b, #ffcc5c); -webkit-background-clip: text; color: transparent;">Frameworks</span>
 <p align="center"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Robot-000000?style=for-the-badge&logo=robotframework&logoColor=white"/> </p>
 🛢️ <span style="background: linear-gradient(45deg, #ff6b6b, #ffcc5c); -webkit-background-clip: text; color: transparent;">Databases</span>
-<p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> </p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
+</p>
+
 🎨 <span style="background: linear-gradient(45deg, #ff6b6b, #ffcc5c); -webkit-background-clip: text; color: transparent;">Design Kits</span>
 <p align="center"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
 🔗 <span style="background: linear-gradient(45deg, #ff6b6b, #ffcc5c); -webkit-background-clip: text; color: transparent;">Social Links</span>
