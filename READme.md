@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yunaaaaard&fontSize=60&fontColor=ffffff&fontAlignY=35&fontFamily=JetBrains+Mono&desc=Flutter%20%2F%20React%20Developer&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFCC5C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yunaaaaard+%F0%9F%91%8B" alt="Typing SVG Title" />
@@ -8,15 +8,11 @@
 
 <a href="https://yunaaaard.dev" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-FFCC5C?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=A9A9A9&center=true&vCenter=true&width=650&lines=Flutter+%2F+Dart+%7C+GetX+State+Management;React+%2B+TypeScript+Enthusiast;Building+p_sosyo+%26+p_sosyo_driver;Based+in+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG Subtitle" />
-</a>
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=yunaaaaard&style=for-the-badge&color=ffcc5c&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
@@ -36,7 +32,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/><br/>
 
 </td>
 <td align="center" valign="top" width="25%">
