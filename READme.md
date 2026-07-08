@@ -11,67 +11,87 @@
 </a>
 
 <br/>
+
 <img src="https://komarev.com/ghpvc/?username=yunaaaaard&style=for-the-badge&color=ffcc5c&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://yunaaaard.dev" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-FFCC5C?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-## 💻 <span>Languages</span>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
-## 🚀 <span>Frameworks</span>
+<h2 align="center">📌 About</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Robot-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  Software developer from the Philippines 🇵🇭 building driver &amp; payment-flow apps in Flutter/Dart,<br/>
+  and sharpening the front-end side with React + TypeScript. Currently leveling up in UX, cybersecurity, and AI fundamentals.
 </p>
 
-## 🛢️ <span>Databases</span>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
+<h2 align="center">🧰 Tech Stack</h2>
 
-## 🎨 <span>Design Kits</span>
+<table align="center">
+<tr>
+<td align="center" valign="top" width="25%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+**💻 Languages**
+<br/><br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-## 📊 <span>GitHub Stats</span>
+</td>
+<td align="center" valign="top" width="25%">
+
+**🚀 Frameworks**
+<br/><br/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
+<img src="https://img.shields.io/badge/Robot-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**🛢️ Databases**
+<br/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**🎨 Design Kits**
+<br/><br/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yunaaaard&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yunaaaard&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Yunaaaard&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunaaaard&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <a href="https://yunaaaard.dev" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-FFCC5C?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-## 🔗 <span>Social Links</span>
+<h2 align="center">🔗 Social Links</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/leonaaaaard" target="_blank">
