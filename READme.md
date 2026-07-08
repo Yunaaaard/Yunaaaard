@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFCC5C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yunaaaaard+%F0%9F%91%8B" alt="Typing SVG Title" />
@@ -84,4 +84,4 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
