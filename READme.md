@@ -3,8 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yunaaaaard&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Flutter%20%2F%20React%20Developer&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=FFCC5C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yunaaaaard+%F0%9F%91%8B" alt="Typing SVG Title" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFCC5C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yunaaaaard+%F0%9F%91%8B" alt="Typing SVG Title" />
 </a>
+
+<a href="https://yunaaaard.dev" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-FFCC5C?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=A9A9A9&center=true&vCenter=true&width=650&lines=Flutter+%2F+Dart+%7C+GetX+State+Management;React+%2B+TypeScript+Enthusiast;Building+p_sosyo+%26+p_sosyo_driver;Based+in+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG Subtitle" />
@@ -13,18 +15,8 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=yunaaaaard&style=for-the-badge&color=ffcc5c&label=PROFILE+VIEWS" alt="Profile Views"/>
-<a href="https://yunaaaard.dev" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-FFCC5C?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
-
-<h2 align="center">📌 About</h2>
-
-<p align="center">
-  Software developer from the Philippines 🇵🇭 building driver &amp; payment-flow apps in Flutter/Dart,<br/>
-  and sharpening the front-end side with React + TypeScript. Currently leveling up in UX, cybersecurity, and AI fundamentals.
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
@@ -75,19 +67,6 @@
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yunaaaard&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Yunaaaard&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunaaaard&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
