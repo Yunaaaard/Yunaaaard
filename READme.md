@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yunaaaaard&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Flutter%20%2F%20React%20Developer&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yunaaaaard&fontSize=60&fontColor=ffffff&fontAlignY=35&fontFamily=JetBrains+Mono&desc=Flutter%20%2F%20React%20Developer&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=FFCC5C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yunaaaaard+%F0%9F%91%8B" alt="Typing SVG Title" />
@@ -20,13 +20,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-<h2 align="center">🧰 Tech Stack</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=999999&color=FFCC5C&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%A7%B0+Tech+Stack" alt="Tech Stack" />
+</div>
 
 <table align="center">
 <tr>
 <td align="center" valign="top" width="25%">
 
-**💻 Languages**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=1&pause=999999&color=A9A9A9&center=true&vCenter=true&width=200&height=25&lines=%F0%9F%92%BB+Languages" alt="Languages" />
 <br/><br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br/>
@@ -39,7 +41,7 @@
 </td>
 <td align="center" valign="top" width="25%">
 
-**🚀 Frameworks**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=1&pause=999999&color=A9A9A9&center=true&vCenter=true&width=200&height=25&lines=%F0%9F%9A%80+Frameworks" alt="Frameworks" />
 <br/><br/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/><br/>
@@ -49,7 +51,7 @@
 </td>
 <td align="center" valign="top" width="25%">
 
-**🛢️ Databases**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=1&pause=999999&color=A9A9A9&center=true&vCenter=true&width=200&height=25&lines=%F0%9F%9B%A2%EF%B8%8F+Databases" alt="Databases" />
 <br/><br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>
@@ -59,7 +61,7 @@
 </td>
 <td align="center" valign="top" width="25%">
 
-**🎨 Design Kits**
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=1&pause=999999&color=A9A9A9&center=true&vCenter=true&width=200&height=25&lines=%F0%9F%8E%A8+Design+Kits" alt="Design Kits" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -70,7 +72,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-<h2 align="center">🔗 Social Links</h2>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=999999&color=FFCC5C&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%94%97+Social+Links" alt="Social Links" />
+</div>
 
 <p align="center">
   <a href="https://www.facebook.com/leonaaaaard" target="_blank">
