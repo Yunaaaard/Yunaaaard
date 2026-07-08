@@ -57,16 +57,16 @@
 ## 📊 <span>GitHub Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yunaaaard&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yunaaaard&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunaaaard&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-domain-here.dev" target="_blank">
+  <a href="https://yunaaaard.dev" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-FFCC5C?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
